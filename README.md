@@ -1,4 +1,6 @@
 *Music Genre Classification using Machine Learning*
+
+
 This project classifies audio tracks into genres using feature extraction with Librosa and machine learning. The dataset is referenced from this Kaggle notebook.
 Project Overview
 The goal is to predict the genre of a music track based on audio features. The workflow includes:
