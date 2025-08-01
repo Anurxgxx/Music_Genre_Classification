@@ -15,9 +15,7 @@ Evaluating model performance using accuracy and confusion matrix
 Project Structure
 music-genre-classification.ipynb: Jupyter Notebook with the complete pipeline
 
-dataset/: Directory expected to contain genre-labeled .wav audio files in subfolders (not included)
-
-README.md: Project documentation
+dataset/: Directory expected to contain genre-labeled .wav audio files in subfolders 
 
 Techniques Used
 Feature Extraction: MFCC, chroma, spectral contrast using Librosa
